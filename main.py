@@ -1,7 +1,7 @@
 import requests
 
 
-author="This tool Written by Dr.AkA \n"
+author="This tool Written by Dr.AkA \n for educational purpose or ethical hackers use"
 
 long_string = """                                  . *(,,&(/#. @#.,. ..,                                             
                       .& ../&%&@@@@%%@&(#%.%&@@@@@@@&&@&/.                                          
